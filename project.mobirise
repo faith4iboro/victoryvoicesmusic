@@ -745,7 +745,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/image5.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -803,7 +803,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/imge3.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -817,7 +817,7 @@
                 "contentAlign": "center",
                 "text": "Practicing The Ways Of Jesus",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.4",
+                "overlayOpacity": "0.1",
                 "textTitle": "Victory Voices Music"
               }
             ]
